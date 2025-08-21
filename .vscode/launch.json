@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "msi",
+      "type": "terminal",
+      "request": "launch",
+      "command": "ssh stan7@msi",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
+

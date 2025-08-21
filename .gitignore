@@ -1,3 +1,20 @@
-*.pyc
-*.swp
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+python-ml/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (uncomment if you want to ignore large datasets)
+# *.csv
+# data/

@@ -1,0 +1,4 @@
+[I 2025-08-21 13:21:35.878 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-08-21 13:21:35.880 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-08-21 13:21:35.882 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-08-21 13:21:35.883 ServerApp] notebook | extension was successfully linked.
